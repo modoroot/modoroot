@@ -32,7 +32,7 @@ about me description here about me description here about me description here ab
 
 ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuUsuario&hide=stars,contribs,prs&count_private=true&show_icons=true&theme=tokyonight)<!-- radical -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=modoroot&hide=stars,contribs,prs&count_private=true&show_icons=true&theme=tokyonight)<!-- radical -->
 
 <!-- fourth section|| programming languages -->
 
