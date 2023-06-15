@@ -1,8 +1,7 @@
 <!-- first section -->
-<h1>My name here for title</h1>
+<h1></h1>
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-about me description here about me description here about me description here about me description here about me description here 
 <br>
 <br>
 
